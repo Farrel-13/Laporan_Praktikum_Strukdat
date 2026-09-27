@@ -32,7 +32,7 @@ int main(){
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_2](https://raw.githubusercontent.com/Farrel-13/Laporan_praktikum/main/laprak01_output01.png)
+![Screenshot Output Unguided 1](https://raw.githubusercontent.com/Farrel-13/Laporan_Praktikum_Strukdat/main/modul_01/laprak01_output01.png)
 
 Program tersebut menerima dua buah bilangan bertipe `float`, kemudian melakukan empat operasi aritmatika yaitu penjumlahan, pengurangan, perkalian, dan pembagian. Hasil dari setiap operasi kemudian ditampilkan menggunakan `cout`.
 
@@ -97,7 +97,7 @@ int main() {
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_2](https://raw.githubusercontent.com/Farrel-13/Laporan_praktikum/main/laprak01_output02.png)
+![Screenshot Output Unguided 2](https://raw.githubusercontent.com/Farrel-13/Laporan_Praktikum_Strukdat/main/modul_01/laprak01_output02.png)
 
 Program tersebut menerima input berupa bilangan bulat positif dari 0 sampai 100, kemudian menampilkan angka tersebut dalam bentuk tulisan bahasa Indonesia.
 
@@ -159,7 +159,7 @@ int main()
 
 ##### Output 1
 
-![Screenshot Output Unguided 1_2](https://raw.githubusercontent.com/Farrel-13/Laporan_praktikum/main/laprak01_output03.png)
+![Screenshot Output Unguided 3](https://raw.githubusercontent.com/Farrel-13/Laporan_Praktikum_Strukdat/main/modul_01/laprak01_output03.png)
 
 Program tersebut menerima sebuah angka sebagai input, kemudian menghasilkan pola berbentuk cermin (_mirror_). Setiap baris menampilkan angka secara menurun dari angka input sampai `1`, kemudian tanda `*`, dan angka kembali secara menaik.
 
