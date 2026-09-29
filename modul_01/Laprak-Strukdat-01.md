@@ -170,3 +170,4 @@ Berdasarkan praktikum Modul 1, dapat disimpulkan bahwa Code::Blocks dapat diguna
 ## Referensi
 
 [1] Modul Praktikum Struktur Data 1. (n.d.). "Modul 1: Code Blocks IDE & Pengenalan Bahasa C++ (Bagian Pertama)."
+[2] H. N. Azzam dan A. S. Ubaidillah, “Studi Perancangan dan Implementasi Sistem Kasir Sederhana Menggunakan Bahasa Pemrograman C++ pada Platform Code::Blocks,” *Jurnal Aplikasi Teknologi dan Komputasi*, vol. 1, no. 4, 2025.
